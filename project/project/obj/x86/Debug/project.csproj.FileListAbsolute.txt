@@ -1,0 +1,12 @@
+E:\DX10\project\project\bin\Debug\project.exe
+E:\DX10\project\project\bin\Debug\project.pdb
+E:\DX10\project\project\obj\x86\Debug\project.exe
+E:\DX10\project\project\obj\x86\Debug\project.pdb
+E:\DX10\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\project\project\obj\x86\Debug\project.exe
+C:\Users\user\Desktop\project\project\obj\x86\Debug\project.pdb
+C:\Users\user\Desktop\project\project\bin\Debug\project.exe
+C:\Users\user\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\user\Desktop\project\project\obj\x86\Debug\project.csprojResolveAssemblyReference.cache
+D:\year_projects\c# projects\project\project\obj\x86\Debug\project.exe
+D:\year_projects\c# projects\project\project\obj\x86\Debug\project.pdb
